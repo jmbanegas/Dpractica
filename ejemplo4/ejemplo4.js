@@ -1,4 +1,7 @@
 'use strict'
+//. De la siguiente lista de 50 libros de la biblioteca buscar si existe un titulo ingresado
+//por prompt.
+
 const programmingBooks = [
     // Lista de libros
 ];
